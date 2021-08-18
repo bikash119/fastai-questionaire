@@ -1,1 +1,1 @@
-Sitemap: https://bikash.dev/fastbook/sitemap.xml
+Sitemap: https://bikash119.github.io/fastai-questionaire/sitemap.xml
