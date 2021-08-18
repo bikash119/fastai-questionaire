@@ -1,1 +1,1 @@
-Sitemap: https://bikash.dev/fastai-questionaire/sitemap.xml
+Sitemap: https://boredmgr.dev/fastai-questionaire/sitemap.xml
