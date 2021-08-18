@@ -1,1 +1,1 @@
-Sitemap: https://bikash.dev/sitemap.xml
+Sitemap: https://bikash.dev/fastbook/sitemap.xml
